@@ -1,0 +1,21 @@
+{
+  "name": "my-typescript-app",
+  "version": "1.0.0",
+  "description": "A TypeScript application with models, services, and utilities.",
+  "main": "src/app.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "jest": "^26.0.0",
+    "@types/jest": "^26.0.0",
+    "ts-jest": "^26.0.0"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "node"
+  }
+}
