@@ -408,10 +408,10 @@ def about_project():
     This project is built for *AI Afrihackbox* to address real cybersecurity 
     challenges in Africa's digital finance ecosystem.
     
-    *🌐 GitHub:* [Your Repository Link]
-    *📧 Contact:* [Your Email]
+    *🌐 GitHub:* marcelomiva
+    *📧 Contact:* dare.fasipe@miva.edu.ng
     *🎯 Hackathon:* AI Afrihackbox Submission
     """)
 
-if _name_ == "_main_":
+if PhishGuard Africa == "_main_":
     main()
